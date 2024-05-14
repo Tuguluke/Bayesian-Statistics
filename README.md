@@ -6,3 +6,6 @@ Computational Bayesian Statistics learning
 [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/)
 
 [Statistical Rethinking](https://xcelab.net/rm/statistical-rethinking/)
+
+# Project
+[Presentation](https://vimeo.com/942995695)
