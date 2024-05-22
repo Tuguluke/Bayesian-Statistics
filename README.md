@@ -1,5 +1,5 @@
 # Bayesian-Statistics
-Computational Bayesian Statistics learning 
+Computational Bayesian Statistics Graduate 
 
 [Bayesian Statistical Methods](https://bayessm.wordpress.ncsu.edu/)
 
